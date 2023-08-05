@@ -1,0 +1,1 @@
+export 'package:pruebatecnicaav/widgets/scale_text_widget.dart';
